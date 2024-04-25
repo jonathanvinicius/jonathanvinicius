@@ -31,7 +31,7 @@
 </div>
 <br/>
 <div>
-   <a href="https://www.linkedin.com/in/jonathan-vinicius-braz-silva-322815200/" target="_blank">
+   <a href="https://www.linkedin.com/in/jonathan-vinicius" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
      <a href="https://instagram.com/_jonathanbraz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a>  
